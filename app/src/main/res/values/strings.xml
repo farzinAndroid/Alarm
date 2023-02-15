@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="alarm_title">Alarm Title</string>
+    <string name="alarm_description">Alarm Description</string>
+    <string name="save">save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="alarm_added">Alarm Added</string>
+    <string name="error_alarm">Please Choose a Title</string>
+    <string name="groups">groups</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure">\"Are You Sure ? \"</string>
+    <string name="yes">yes</string>
+    <string name="neutral">neutral</string>
+</resources>
